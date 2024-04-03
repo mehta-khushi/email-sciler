@@ -1,1 +1,1 @@
-# email-sciler
+# email-slicer
